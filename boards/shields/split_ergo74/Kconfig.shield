@@ -1,0 +1,4 @@
+config SHIELD_SPLIT_ERGO74_LEFT
+    def_bool $(shields_list_contains,split_ergo74_left)
+config SHIELD_SPLIT_ERGO74_RIGHT
+    def_bool $(shields_list_contains,split_ergo74_right)

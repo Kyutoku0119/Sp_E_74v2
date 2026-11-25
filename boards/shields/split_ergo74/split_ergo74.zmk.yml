@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: split_ergo74
+name: split_ergo74
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - split_ergo74_left
+  - split_ergo74_right
